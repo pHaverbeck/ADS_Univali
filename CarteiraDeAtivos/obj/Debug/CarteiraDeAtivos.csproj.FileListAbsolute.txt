@@ -1,0 +1,50 @@
+C:\Users\pH\iCloudDrive\UNIVALI Graduação\Modulo 3\Hands On Work\CarteiraDeAtivos\bin\Debug\CarteiraDeAtivos.exe.config
+C:\Users\pH\iCloudDrive\UNIVALI Graduação\Modulo 3\Hands On Work\CarteiraDeAtivos\bin\Debug\CarteiraDeAtivos.exe
+C:\Users\pH\iCloudDrive\UNIVALI Graduação\Modulo 3\Hands On Work\CarteiraDeAtivos\bin\Debug\CarteiraDeAtivos.pdb
+C:\Users\pH\iCloudDrive\UNIVALI Graduação\Modulo 3\Hands On Work\CarteiraDeAtivos\obj\Debug\CarteiraDeAtivos.csprojAssemblyReference.cache
+C:\Users\pH\iCloudDrive\UNIVALI Graduação\Modulo 3\Hands On Work\CarteiraDeAtivos\obj\Debug\CarteiraDeAtivos.Properties.Resources.resources
+C:\Users\pH\iCloudDrive\UNIVALI Graduação\Modulo 3\Hands On Work\CarteiraDeAtivos\obj\Debug\CarteiraDeAtivos.csproj.GenerateResource.cache
+C:\Users\pH\iCloudDrive\UNIVALI Graduação\Modulo 3\Hands On Work\CarteiraDeAtivos\obj\Debug\CarteiraDeAtivos.csproj.CoreCompileInputs.cache
+C:\Users\pH\iCloudDrive\UNIVALI Graduação\Modulo 3\Hands On Work\CarteiraDeAtivos\obj\Debug\CarteiraDeAtivos.exe
+C:\Users\pH\iCloudDrive\UNIVALI Graduação\Modulo 3\Hands On Work\CarteiraDeAtivos\obj\Debug\CarteiraDeAtivos.pdb
+C:\Users\pH\iCloudDrive\UNIVALI Graduação\Modulo 3\Hands On Work\CarteiraDeAtivos\obj\Debug\CarteiraDeAtivos.CarteiraDeAtivos.resources
+C:\Users\pH\iCloudDrive\UNIVALI Graduação\Modulo 3\Hands On Work\CarteiraDeAtivos\bin\Debug\MySql.Data.dll
+C:\Users\pH\iCloudDrive\UNIVALI Graduação\Modulo 3\Hands On Work\CarteiraDeAtivos\bin\Debug\Google.Protobuf.dll
+C:\Users\pH\iCloudDrive\UNIVALI Graduação\Modulo 3\Hands On Work\CarteiraDeAtivos\bin\Debug\Zstandard.Net.dll
+C:\Users\pH\iCloudDrive\UNIVALI Graduação\Modulo 3\Hands On Work\CarteiraDeAtivos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\pH\iCloudDrive\UNIVALI Graduação\Modulo 3\Hands On Work\CarteiraDeAtivos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\pH\iCloudDrive\UNIVALI Graduação\Modulo 3\Hands On Work\CarteiraDeAtivos\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\pH\iCloudDrive\UNIVALI Graduação\Modulo 3\Hands On Work\CarteiraDeAtivos\bin\Debug\Renci.SshNet.dll
+C:\Users\pH\iCloudDrive\UNIVALI Graduação\Modulo 3\Hands On Work\CarteiraDeAtivos\bin\Debug\System.Buffers.dll
+C:\Users\pH\iCloudDrive\UNIVALI Graduação\Modulo 3\Hands On Work\CarteiraDeAtivos\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\pH\iCloudDrive\UNIVALI Graduação\Modulo 3\Hands On Work\CarteiraDeAtivos\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\pH\iCloudDrive\UNIVALI Graduação\Modulo 3\Hands On Work\CarteiraDeAtivos\bin\Debug\System.Memory.dll
+C:\Users\pH\iCloudDrive\UNIVALI Graduação\Modulo 3\Hands On Work\CarteiraDeAtivos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pH\iCloudDrive\UNIVALI Graduação\Modulo 3\Hands On Work\CarteiraDeAtivos\bin\Debug\MySql.Data.xml
+C:\Users\pH\iCloudDrive\UNIVALI Graduação\Modulo 3\Hands On Work\CarteiraDeAtivos\obj\Debug\CarteiraDeAtivos.exe.config
+C:\Users\pH\iCloudDrive\UNIVALI Graduação\Modulo 3\Hands On Work\CarteiraDeAtivos\obj\Debug\CarteiraDeAtivos.csproj.CopyComplete
+C:\Users\pH\iCloudDrive\UNIVALI Graduação\Modulo 3\Hands On Work\HOW 3 Final - Paulo H Averbeck\CarteiraDeAtivos\bin\Debug\CarteiraDeAtivos.exe.config
+C:\Users\pH\iCloudDrive\UNIVALI Graduação\Modulo 3\Hands On Work\HOW 3 Final - Paulo H Averbeck\CarteiraDeAtivos\bin\Debug\CarteiraDeAtivos.exe
+C:\Users\pH\iCloudDrive\UNIVALI Graduação\Modulo 3\Hands On Work\HOW 3 Final - Paulo H Averbeck\CarteiraDeAtivos\bin\Debug\CarteiraDeAtivos.pdb
+C:\Users\pH\iCloudDrive\UNIVALI Graduação\Modulo 3\Hands On Work\HOW 3 Final - Paulo H Averbeck\CarteiraDeAtivos\bin\Debug\MySql.Data.dll
+C:\Users\pH\iCloudDrive\UNIVALI Graduação\Modulo 3\Hands On Work\HOW 3 Final - Paulo H Averbeck\CarteiraDeAtivos\bin\Debug\Google.Protobuf.dll
+C:\Users\pH\iCloudDrive\UNIVALI Graduação\Modulo 3\Hands On Work\HOW 3 Final - Paulo H Averbeck\CarteiraDeAtivos\bin\Debug\Zstandard.Net.dll
+C:\Users\pH\iCloudDrive\UNIVALI Graduação\Modulo 3\Hands On Work\HOW 3 Final - Paulo H Averbeck\CarteiraDeAtivos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\pH\iCloudDrive\UNIVALI Graduação\Modulo 3\Hands On Work\HOW 3 Final - Paulo H Averbeck\CarteiraDeAtivos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\pH\iCloudDrive\UNIVALI Graduação\Modulo 3\Hands On Work\HOW 3 Final - Paulo H Averbeck\CarteiraDeAtivos\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\pH\iCloudDrive\UNIVALI Graduação\Modulo 3\Hands On Work\HOW 3 Final - Paulo H Averbeck\CarteiraDeAtivos\bin\Debug\Renci.SshNet.dll
+C:\Users\pH\iCloudDrive\UNIVALI Graduação\Modulo 3\Hands On Work\HOW 3 Final - Paulo H Averbeck\CarteiraDeAtivos\bin\Debug\System.Buffers.dll
+C:\Users\pH\iCloudDrive\UNIVALI Graduação\Modulo 3\Hands On Work\HOW 3 Final - Paulo H Averbeck\CarteiraDeAtivos\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\pH\iCloudDrive\UNIVALI Graduação\Modulo 3\Hands On Work\HOW 3 Final - Paulo H Averbeck\CarteiraDeAtivos\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\pH\iCloudDrive\UNIVALI Graduação\Modulo 3\Hands On Work\HOW 3 Final - Paulo H Averbeck\CarteiraDeAtivos\bin\Debug\System.Memory.dll
+C:\Users\pH\iCloudDrive\UNIVALI Graduação\Modulo 3\Hands On Work\HOW 3 Final - Paulo H Averbeck\CarteiraDeAtivos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pH\iCloudDrive\UNIVALI Graduação\Modulo 3\Hands On Work\HOW 3 Final - Paulo H Averbeck\CarteiraDeAtivos\bin\Debug\MySql.Data.xml
+C:\Users\pH\iCloudDrive\UNIVALI Graduação\Modulo 3\Hands On Work\HOW 3 Final - Paulo H Averbeck\CarteiraDeAtivos\obj\Debug\CarteiraDeAtivos.csprojAssemblyReference.cache
+C:\Users\pH\iCloudDrive\UNIVALI Graduação\Modulo 3\Hands On Work\HOW 3 Final - Paulo H Averbeck\CarteiraDeAtivos\obj\Debug\CarteiraDeAtivos.exe.config
+C:\Users\pH\iCloudDrive\UNIVALI Graduação\Modulo 3\Hands On Work\HOW 3 Final - Paulo H Averbeck\CarteiraDeAtivos\obj\Debug\CarteiraDeAtivos.CarteiraDeAtivos.resources
+C:\Users\pH\iCloudDrive\UNIVALI Graduação\Modulo 3\Hands On Work\HOW 3 Final - Paulo H Averbeck\CarteiraDeAtivos\obj\Debug\CarteiraDeAtivos.Properties.Resources.resources
+C:\Users\pH\iCloudDrive\UNIVALI Graduação\Modulo 3\Hands On Work\HOW 3 Final - Paulo H Averbeck\CarteiraDeAtivos\obj\Debug\CarteiraDeAtivos.csproj.GenerateResource.cache
+C:\Users\pH\iCloudDrive\UNIVALI Graduação\Modulo 3\Hands On Work\HOW 3 Final - Paulo H Averbeck\CarteiraDeAtivos\obj\Debug\CarteiraDeAtivos.csproj.CoreCompileInputs.cache
+C:\Users\pH\iCloudDrive\UNIVALI Graduação\Modulo 3\Hands On Work\HOW 3 Final - Paulo H Averbeck\CarteiraDeAtivos\obj\Debug\CarteiraDeAtivos.csproj.CopyComplete
+C:\Users\pH\iCloudDrive\UNIVALI Graduação\Modulo 3\Hands On Work\HOW 3 Final - Paulo H Averbeck\CarteiraDeAtivos\obj\Debug\CarteiraDeAtivos.exe
+C:\Users\pH\iCloudDrive\UNIVALI Graduação\Modulo 3\Hands On Work\HOW 3 Final - Paulo H Averbeck\CarteiraDeAtivos\obj\Debug\CarteiraDeAtivos.pdb
