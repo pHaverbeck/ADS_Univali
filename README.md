@@ -1,7 +1,7 @@
 # ADS_Univali
 Hands on Work IV
 
-Repositório para arquivos do trabalho do módulo 4 (HoW IV);
+Arquivos do trabalho do módulo 4 (HoW IV); Continuação do HoW III
 
 Carteira de Ativos;
 
