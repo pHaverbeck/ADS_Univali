@@ -28,7 +28,7 @@ int main()
                     return numBin;
                     // Fazer operacoes de conversao
             
-            printf("A conversao do numero %d para a opcao %d resulta em %d\n", numDec, opcao, numBin);
+            printf("A conversao do numero %d de Decimal para Binário resulta em %d\n", numDec, numBin);
             break;
 
             //Codigo conversao BINARIO para DECIMAL
@@ -38,7 +38,7 @@ int main()
                 scanf("%d", &numBin);
                     // Fazer operacoes de conversao
             
-            printf("A conversao do numero %d para a opcao %d resulta em %d\n", numBin, opcao, numDec);
+            printf("A conversao do numero %d de Binário para Decimal resulta em %d\n", numBin, numDec);
             break;
             default:
                 printf("Por favor escolha uma opção válida");
