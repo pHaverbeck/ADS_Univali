@@ -2,9 +2,9 @@
 #include <math.h>
 
 //Função de conversão Decimal para Binário
-long long int decToBin (long long int numDec){
-    long long int numBin = 0;
-    long long int resto, casaDec = 1;
+unsigned long long int decToBin (unsigned long long int numDec){
+    unsigned long long int numBin = 0;
+    unsigned long long int resto, casaDec = 1;
     while (numDec != 0){
         resto = numDec % 2;
         numDec /= 2;
@@ -12,13 +12,11 @@ long long int decToBin (long long int numDec){
         casaDec *= 10;
     }
     return numBin;
-    //Melhorar resultado, faltam zeros a esquerda em alguns casos; verificar se é possível separar os numeros binarios de 4 em 4 casas
-    //Verificar necessidade de declarar algumas variáveis como 'long long'
 }
 
 //Função de conversão Binário para Decimal
-long long int binToDec (long long int numBin){
-    long long int numDec = 0, casaBin = 0, resto;
+unsigned long long int binToDec (unsigned long long int numBin){
+    unsigned long long int numDec = 0, casaBin = 0, resto;
     while (numBin != 0){
         resto = numBin % 10;
         numBin /= 10;
@@ -26,34 +24,32 @@ long long int binToDec (long long int numBin){
         casaBin++;
     }
     return numDec;
-    //Melhorar resultado, números não binários "funcionam"
-    //Verificar necessidade de declarar algumas variáveis como 'long long'
 }
 int main()
 {
-    long long int opcao, numDec, numBin;
+    unsigned long long int opcao, numDec, numBin;
     printf("\n************************************************\n");
     printf("Bem vindo ao Conversor de Bases,\npor favor escolha sua opcao de conversao:\n");
     printf("1 - Decimal para Binario\n");
     printf("2 - Binario para Decimal\n");
     printf("************************************************\n");
-        scanf("%lld", &opcao);
+        scanf("%llu", &opcao);
         // Inserir um Switch Case
         switch(opcao){
             //Codigo conversao DECIMAL para BINARIO
             case 1:
-            printf("\nVoce escolheu a opcao %lld\n", opcao);
+            printf("\nVoce escolheu a opcao %llu\n", opcao);
                 printf("\nDigite o numero que deseja converter:\n");
-                scanf("%lld", &numDec);
-                printf("\nA conversao do numero %lld de Decimal para Binario resulta em %lld\n", numDec, decToBin(numDec));
+                scanf("%llu", &numDec);
+                printf("\nA conversao do numero %llu de Decimal para Binario resulta em %llu\n", numDec, decToBin(numDec));
             break;
 
             //Codigo conversao BINARIO para DECIMAL
             case 2:
-            printf("\nVoce escolheu a opcao %lld\n", opcao);
+            printf("\nVoce escolheu a opcao %llu\n", opcao);
                 printf("\nDigite o numero que deseja converter:\n");
-                scanf("%lld", &numBin);
-                printf("\nA conversao do numero %lld de Binario para Decimal resulta em %lld\n", numBin, binToDec(numBin));
+                scanf("%llu", &numBin);
+                printf("\nA conversao do numero %llu de Binario para Decimal resulta em %llu\n", numBin, binToDec(numBin));
             break;
             default:
                 printf("\nPor favor escolha uma opcao valida");
