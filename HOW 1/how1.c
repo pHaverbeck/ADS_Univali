@@ -56,7 +56,7 @@ int main()
                 printf("************************************************\n");
             break;
             default:
-                printf("\nPor favor escolha uma opcao valida"); // Case Padrão: Caso não sejam inseridos os números 1 ou 2 nas opções de operação, esta mensagem será apresentada.
+                printf("\nPor favor escolha uma opcao valida\n"); // Case Padrão: Caso não sejam inseridos os números 1 ou 2 nas opções de operação, esta mensagem será apresentada.
                 printf("************************************************\n");
         }
 
